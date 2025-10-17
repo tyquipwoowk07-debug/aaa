@@ -17,3 +17,6 @@
 #### - Библиотечные процессы
 #### - Статистика
 
+## Основные процессы
+![Основные процессы](https://github.com/tyquipwoowk07-debug/aaa/blob/main/out/diagr/diagr.png)
+
