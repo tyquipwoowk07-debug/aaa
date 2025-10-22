@@ -19,4 +19,6 @@
 ## Блок-схемы процессов
 ![Запрос на книгу](https://github.com/tyquipwoowk07-debug/aaa/blob/2f578da6e6502f84daf51782212bdc3da7e4a828/docs/blok.png)
 
+![Ввод новой книги](https://github.com/tyquipwoowk07-debug/aaa/blob/471ec24b051f226212c7c95a3a8ac5b8f61a552a/docs/bloktwo.png)
+
 
