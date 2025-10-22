@@ -1,4 +1,4 @@
-@startuml
+@startuml block
 :Начало;
 :Запрос на книгу/
 if (Есть в наличии?) then (Нет)
