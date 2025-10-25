@@ -14,7 +14,7 @@
 #### - Библиотечные процессы
 
 ## Основные процессы
-![Основные процессы](https://github.com/tyquipwoowk07-debug/aaa/blob/2f578da6e6502f84daf51782212bdc3da7e4a828/docs/diagr.png)
+![Основные процессы](https://github.com/tyquipwoowk07-debug/aaa/blob/85faa4efd9899b2c87ae1760e73c912795e154b2/diagr.png)
 
 ## Блок-схемы процессов
 ![Запрос на книгу](https://github.com/tyquipwoowk07-debug/aaa/blob/2f578da6e6502f84daf51782212bdc3da7e4a828/docs/blok.png)
