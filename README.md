@@ -22,6 +22,6 @@
 ![Ввод новой книги](https://github.com/tyquipwoowk07-debug/aaa/blob/471ec24b051f226212c7c95a3a8ac5b8f61a552a/docs/bloktwo.png)
 
 ## Диаграмма Базы Данных
-![Структура БД](https://github.com/tyquipwoowk07-debug/aaa/blob/3c210c1654cf1f04f467d8bd35dd5a681d06587d/docs/database.png)
+![Структура БД](https://github.com/tyquipwoowk07-debug/aaa/blob/1c675b82e87bdf6607c7e64cfd9e1daafe94e96b/docs/%D0%B1%D0%B0%D0%B7%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.png)
 
 
